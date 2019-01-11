@@ -31,7 +31,7 @@ to these equations:
 		| d b c |			| a d c |			| a b d |
 		| i g h |			| f i h |			| f g i |
 		| n k m |			| j n m |			| j k n |
-	x =	---------		y = ---------       z = ---------
+	x =	---------		    y = ---------                   z = ---------
 		| a b c |			| a b c |			| a b c |
 		| f g h |			| f g h |			| f g h |
 		| j k m |			| j k m |			| j k m |
