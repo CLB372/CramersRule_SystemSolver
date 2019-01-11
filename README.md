@@ -14,7 +14,7 @@ containing 3 variables x, y, and z:
 
 			ax + by + cz = d
 			fx + gy + hz = i
-      jx + ky + mz = n
+      			jx + ky + mz = n
       
 The input must look like the following (without any white space to the left of each row:
 
